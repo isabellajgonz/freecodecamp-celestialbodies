@@ -303,7 +303,7 @@ INSERT INTO public.moon VALUES (13, 'Ariel', true, 3, 7);
 INSERT INTO public.moon VALUES (14, 'Umbriel', false, 4, 7);
 INSERT INTO public.moon VALUES (15, 'Titania', true, 9, 7);
 INSERT INTO public.moon VALUES (16, 'Oberon', true, 13, 7);
-NSERT INTO public.moon VALUES (17, 'Triton', true, 6, 8);
+INSERT INTO public.moon VALUES (17, 'Triton', true, 6, 8);
 INSERT INTO public.moon VALUES (18, 'Charon', true, 6, 10);
 INSERT INTO public.moon VALUES (19, 'Nix', false, 25, 10);
 INSERT INTO public.moon VALUES (20, 'Hydra', false, 38, 10);
@@ -481,9 +481,4 @@ ALTER TABLE ONLY public.star
 --
 -- PostgreSQL database dump complete
 --
-
-
-
-
-
 
